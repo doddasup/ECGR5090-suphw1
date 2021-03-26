@@ -1,0 +1,5 @@
+{
+    "board": "arduino:mbed:nano33ble",
+    "port": "COM7",
+    "sketch": "hello_proximity.ino"
+}
